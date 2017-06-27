@@ -4,12 +4,9 @@
 #Libraries
 
 import graphlab as gl
-import matplotlib.pyplot as plt
 import os
 import graphlab.aggregate as agg
 import numpy as np
-from scipy.stats import gaussian_kde
-import seaborn as sns
 import math
 
 
