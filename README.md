@@ -3,10 +3,16 @@
 ## The following code was used to generate the data presented in Nanoscopic dopamine transporter distribution and conformation are inversely regulated by excitatory drive and D2-autoreceptor activity
 
 Localizations were first fit with the imageJ macro using ThunderSTORM called "just locs.ijm"
+
 Drift correction, uncertantiy cutoff, and merging were completed with the python script "DataAnalysisStep1"
+
 Data was blinded with the python script "Blind"
+
 ROIs were exrtracted with the matlab script "ROISaver"
-Clustering values were extracted with the python scrip "See"
+
+Clustering values were extracted with the python script "See"
+
+Voronoi Tesselation was preformed with the Density_friends matlab script.
 
 
 
